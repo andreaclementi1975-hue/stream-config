@@ -65,7 +65,7 @@ b) lbatv/6.php
 c) 
 ###
 a) Rai Sport
-b) https://rai.zappr.stream/raisport1.m3u8
+b) https://htsport.org/raisport1.htm
 b) 
 c) 
 ###
@@ -89,9 +89,9 @@ b) https://htsport.org/
 b) f1.htm
 c)
 ###
-a) Calcio (HT)
+a) Tennis (HT)
 b) https://htsport.org/
-b) calcio.htm
+b) tennis.htm
 c)
 ###
 a) Sport Max (HT)
@@ -121,6 +121,16 @@ c)
 ###
 a) Cinema Action
 b) https://htsport.org/action.htm
+b) 
+c) 
+###
+a) Collection
+b) https://htsport.org/collection.htm
+b) 
+c) 
+###
+a) Family
+b) https://htsport.org/family.htm
 b) 
 c) 
 ###
