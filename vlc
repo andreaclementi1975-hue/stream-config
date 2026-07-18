@@ -14,48 +14,69 @@ https://1nyaler.streamhostingcdn.top/stream/22/index.m3u8
 #EXTINF:-1 tvg-id="SkySportBasket" tvg-chno="5" tvg-logo="" group-title="Sport",Sky Sport Basket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://1nyaler.streamhostingcdn.top/stream/1/index.m3u8
-#EXTINF:-1 tvg-id="FoxSport2" tvg-chno="6" tvg-logo="" group-title="Sport",Fox Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
-#EXTINF:-1 tvg-id="SkySportPremierLeague(EN)" tvg-chno="7" tvg-logo="" group-title="Sport",Sky Sport Premier League (EN)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://1nyaler.streamhostingcdn.top/stream/38/index.m3u8
 #EXTINF:-1 tvg-id="Rai1HD" tvg-chno="8" tvg-logo="" group-title="Rai",Rai 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://1nyaler.streamhostingcdn.top/stream/42/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sport+ Live" tvg-chno="6" tvg-logo="" group-title="Sport",Sky Sport+ Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://1nyaler.streamhostingcdn.top/stream/11/index.m3u8
+#EXTINF:-1 tvg-id="Sky Action EN" tvg-chno="6" tvg-logo="" group-title="Sport",Sky Action EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://1nyaler.streamhostingcdn.top/stream/12/index.m3u8
+#EXTINF:-1 tvg-id="SkySportPremierLeague(EN)" tvg-chno="7" tvg-logo="" group-title="Sport",Sky Sport Premier League (EN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://1nyaler.streamhostingcdn.top/stream/38/index.m3u8
 #EXTINF:-1 tvg-id="SKYMainEvent(EN)" tvg-chno="9" tvg-logo="" group-title="Sport",SKY Main Event (EN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://1nyaler.streamhostingcdn.top/stream/19/index.m3u8
+#EXTINF:-1 tvg-id="SKY Sport News(EN)" tvg-chno="9" tvg-logo="" group-title="Sport",SKY Sport News(EN)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://1nyaler.streamhostingcdn.top/stream/39/index.m3u8
 #EXTINF:-1 tvg-id="ESPN2" tvg-chno="10" tvg-logo="" group-title="Sport",ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://1nyaler.streamhostingcdn.top/stream/105/index.m3u8
 #EXTINF:-1 tvg-id="TNTSport1" tvg-chno="11" tvg-logo="" group-title="Sport",TNT Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8
-#EXTINF:-1 tvg-id="TNTSportES" tvg-chno="12" tvg-logo="" group-title="Sport",TNT Sport ES
+#EXTINF:-1 tvg-id="Deportes ES" tvg-chno="12" tvg-logo="" group-title="Sport",Deportes ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+https://1nyaler.streamhostingcdn.top/stream/18/index.m3u8
 #EXTINF:-1 tvg-id="BeinSports1" tvg-chno="13" tvg-logo="" group-title="Sport",Bein Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:-1 tvg-id="WinSports" tvg-chno="14" tvg-logo="" group-title="Sport",Win Sports
+#EXTINF:-1 tvg-id="Sport TV 5" tvg-chno="14" tvg-logo="" group-title="Sport",Sport TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-#EXTINF:-1 tvg-id="SkySportSelect" tvg-chno="15" tvg-logo="" group-title="Sport",Sky Sport Select
+https://1nyaler.streamhostingcdn.top/stream/43/index.m3u8
+#EXTINF:-1 tvg-id="TSN1" tvg-chno="15" tvg-logo="" group-title="Sport",TSN1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://1nyaler.streamhostingcdn.top/stream/126/index.m3u8
+https://1nyaler.streamhostingcdn.top/stream/44/index.m3u8
 #EXTINF:-1 tvg-id="CosmoteSport" tvg-chno="16" tvg-logo="" group-title="Sport",Cosmote Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
-#EXTINF:-1 tvg-id="DubaiSport" tvg-chno="17" tvg-logo="" group-title="Sport",Dubai Sport
+#EXTINF:-1 tvg-id="TVP Sport" tvg-chno="17" tvg-logo="" group-title="Sport",TvP Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://1nyaler.streamhostingcdn.top/stream/55/index.m3u8
-#EXTINF:-1 tvg-id="RTL+Live" tvg-chno="18" tvg-logo="" group-title="Altro",RTL + Live
+https://1nyaler.streamhostingcdn.top/stream/28/index.m3u8
+#EXTINF:-1 tvg-id="Sport Digital DE" tvg-chno="15" tvg-logo="" group-title="Altro",Spot Digital DE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://1nyaler.streamhostingcdn.top/stream/71/index.m3u8
-#EXTINF:-1 tvg-id="DAZNES" tvg-chno="19" tvg-logo="" group-title="Sport",DAZN ES
+#EXTINF:-1 tvg-id="DAZN EN" tvg-chno="19" tvg-logo="" group-title="Sport",DAZN EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://1nyaler.streamhostingcdn.top/stream/25/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sport 1 Austria" tvg-chno="20" tvg-logo="" group-title="Sport",Sky Sport 1 Austria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://1nyaler.streamhostingcdn.top/stream/31/index.m3u8
+#EXTINF:-1 tvg-id="Arena 1 Premium" tvg-chno="20" tvg-logo="" group-title="Sport",Arena 1 Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://1nyaler.streamhostingcdn.top/stream/33/index.m3u8
+#EXTINF:-1 tvg-id="Movie 1+" tvg-chno="20" tvg-logo="" group-title="Sport",Movie 1+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://1nyaler.streamhostingcdn.top/stream/34/index.m3u8
+#EXTINF:-1 tvg-id="Movie 2+" tvg-chno="20" tvg-logo="" group-title="Sport",Movie 2+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://1nyaler.streamhostingcdn.top/stream/36/index.m3u8
+#EXTINF:-1 tvg-id="DAZN ES" tvg-chno="20" tvg-logo="" group-title="Sport",DAZN ES
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://1nyaler.streamhostingcdn.top/stream/35/index.m3u8
-#EXTINF:-1 tvg-id="ESPNES" tvg-chno="20" tvg-logo="" group-title="Sport",ESPN ES
+#EXTINF:-1 tvg-id="TENNIS" tvg-chno="20" tvg-logo="" group-title="Sport",TENNIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://1nyaler.streamhostingcdn.top/stream/99/index.m3u8
+https://juventusonair.com/lv/ck/app/tennis.php
