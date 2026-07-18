@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SportUno" tvg-chno="1" tvg-logo="" group-title="Sport",Sport Uno
+https://1nyaler.streamhostingcdn.top/stream/17/index.m3u8
+#EXTINF:-1 tvg-id="Calcio1HD" tvg-chno="2" tvg-logo="" group-title="Sport",Calcio 1 HD
+https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
+#EXTINF:-1 tvg-id="Dazn1HD" tvg-chno="3" tvg-logo="" group-title="Sport",Dazn 1 HD
+https://1nyaler.streamhostingcdn.top/stream/24/index.m3u8
+#EXTINF:-1 tvg-id="Dazn2HD" tvg-chno="4" tvg-logo="" group-title="Sport",Dazn 2 HD
+https://1nyaler.streamhostingcdn.top/stream/22/index.m3u8
+#EXTINF:-1 tvg-id="SkySportBasket" tvg-chno="5" tvg-logo="" group-title="Sport",Sky Sport Basket
+https://1nyaler.streamhostingcdn.top/stream/1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSport2" tvg-chno="6" tvg-logo="" group-title="Sport",Fox Sport 2
+https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
+#EXTINF:-1 tvg-id="SkySportPremierLeague(EN)" tvg-chno="7" tvg-logo="" group-title="Sport",Sky Sport Premier League (EN)
+https://1nyaler.streamhostingcdn.top/stream/38/index.m3u8
+#EXTINF:-1 tvg-id="Rai1HD" tvg-chno="8" tvg-logo="" group-title="Rai",Rai 1 HD
+https://1nyaler.streamhostingcdn.top/stream/42/index.m3u8
+#EXTINF:-1 tvg-id="SKYMainEvent(EN)" tvg-chno="9" tvg-logo="" group-title="Sport",SKY Main Event (EN)
+https://1nyaler.streamhostingcdn.top/stream/19/index.m3u8
+#EXTINF:-1 tvg-id="ESPN2" tvg-chno="10" tvg-logo="" group-title="Sport",ESPN 2
+https://1nyaler.streamhostingcdn.top/stream/105/index.m3u8
+#EXTINF:-1 tvg-id="TNTSport1" tvg-chno="11" tvg-logo="" group-title="Sport",TNT Sport 1
+https://1nyaler.streamhostingcdn.top/stream/13/index.m3u8
+#EXTINF:-1 tvg-id="TNTSportES" tvg-chno="12" tvg-logo="" group-title="Sport",TNT Sport ES
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+#EXTINF:-1 tvg-id="BeinSports1" tvg-chno="13" tvg-logo="" group-title="Sport",Bein Sports 1
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-id="WinSports" tvg-chno="14" tvg-logo="" group-title="Sport",Win Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1 tvg-id="SkySportSelect" tvg-chno="15" tvg-logo="" group-title="Sport",Sky Sport Select
+https://1nyaler.streamhostingcdn.top/stream/126/index.m3u8
+#EXTINF:-1 tvg-id="CosmoteSport" tvg-chno="16" tvg-logo="" group-title="Sport",Cosmote Sport
+https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
+#EXTINF:-1 tvg-id="DubaiSport" tvg-chno="17" tvg-logo="" group-title="Sport",Dubai Sport
+https://1nyaler.streamhostingcdn.top/stream/55/index.m3u8
+#EXTINF:-1 tvg-id="RTL+Live" tvg-chno="18" tvg-logo="" group-title="Altro",RTL + Live
+https://1nyaler.streamhostingcdn.top/stream/71/index.m3u8
+#EXTINF:-1 tvg-id="DAZNES" tvg-chno="19" tvg-logo="" group-title="Sport",DAZN ES
+https://1nyaler.streamhostingcdn.top/stream/35/index.m3u8
+#EXTINF:-1 tvg-id="ESPNES" tvg-chno="20" tvg-logo="" group-title="Sport",ESPN ES
+https://1nyaler.streamhostingcdn.top/stream/99/index.m3u8
