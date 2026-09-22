@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Calcio",Puerto Montt vs Nublense - TNT CL
+#EXT-X-VERSION:3
+#EXTINF:-1 tvg-id="TNT CL" tvg-name="Puerto Montt vs Nublense - TNT CL" group-title="Calcio",Puerto Montt vs Nublense - TNT CL
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd/player.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
-http://localhost:3000/api/proxy-m3u8?url=https%3A%2F%2Ffhlsport722.tm3troops31patrol.ru%2Ftoken-XD9hWya49oaw6fLRHY%252BA%252B4PTi%252Fi6D6aNrUuFxtOvOtSpm8ZfbLBIGmafdciL1Wc4fFRnUiXJpjkM8S6ToQ9ssXdCYlUTgElWdX8GmTCHQlM%253Da%2Fcfall%2Fs2001%2Fv3b%2F5qs363o1nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%253D%2Fhedy%2Fsx_827555%2Findex.m3u8
+#EXTHTTP:{"Referer":"https://nadia01eo.tn76degree12ec3out.cfd/player.html","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"}
+https://fhlsport722.tm3troops31patrol.ru/token-6w7UoMiPvPSrJNrALPfOV8qUatqJBToyLRiVO45tNixOfXR%2BdjT5VjeOEcHQkwhnxuRY%2F5ix0Z8vP5mMSZiDCt8ZwHO%2BS4DuVxIfJBVJFL8%3Da/cfall/s2001/v3b/5qs363o1nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_827555/index.m3u8|Referer=https%3A%2F%2Fnadia01eo.tn76degree12ec3out.cfd%2Fplayer.html&User-Agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F152.0.0.0%20Safari%2F537.36
