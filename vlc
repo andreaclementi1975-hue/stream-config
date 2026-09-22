@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:-1 tvg-id="TNT CL" tvg-name="Puerto Montt vs Nublense - TNT CL" group-title="Calcio",Puerto Montt vs Nublense - TNT CL
+#EXTINF:-1 tvg-id="TNT CL" tvg-name="2Puerto Montt vs Nublense - TNT CL" group-title="Calcio",Puerto Montt vs Nublense - TNT CL
 #EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd/player.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 #EXTHTTP:{"Referer":"https://nadia01eo.tn76degree12ec3out.cfd/player.html","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36"}
