@@ -1,4 +1,4 @@
-#EXTM3U url-tvg=""
+#EXTM3U
 #EXTINF:-1 group-title="Calcio",Barcelona Women vs Paris FC Women - BE ID
 https://ais-dev-4mfai6twrqhuqe66hhbzpa-111024863701.europe-west2.run.app/api/proxy-m3u8?url=https%3A%2F%2Ffhlsport964.tm3drop33weeps.ru%2Ftoken-GlbDO%252BrpxZymJqMgkUH3N7L2R3UlrW%252Bekts55YI1Ewhh8buGljinwinZRfEOwBBjSiief1t6LDqEER05tic1N3ACZfoQ8bbsadrpQiQFNSc%253Da%2Fcfall%2Fs2001%2Fv3b%2F8p691s5qnUE0pQbiY3EmAmphZ3umqT0lYz9hMD%253D%253D%2Fsuper%2F3x_828264.m3u8
 #EXTINF:-1 tvg-id="Barcelona Women vs Paris FC Women - BE ID" tvg-name="Barcelona Women vs Paris FC Women - BE ID" group-title="Calcio",Barcelona Women vs Paris FC Women - BE ID
